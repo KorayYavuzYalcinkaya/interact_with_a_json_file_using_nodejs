@@ -1,8 +1,8 @@
 {
-  "name": "deneme1",
+  "name": "Nodejs_Json",
   "version": "1.0.0",
   "description": "",
-  "main": "deneme.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
